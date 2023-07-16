@@ -106,7 +106,7 @@ body * {
 }
 
 .hero {
-    background-image: url(../img/image\ 4.3.jpg);
+    background-image: url(../img/image4.3.jpg);
     background-size: cover;
     height: 707px;
     padding-top: 154px;
@@ -272,7 +272,7 @@ body * {
 }
 
 .img__step2 {
-    background-image: url(../img/image\ 6.png);
+    background-image: url(../img/image6.png);
     background-size: cover;
     left: 50%;
     transform: translate(-50%, -70%);
